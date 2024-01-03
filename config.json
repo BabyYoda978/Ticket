@@ -1,0 +1,25 @@
+{
+    "client": {
+        "token": "MTEzNDkxMjQyOTIxNDY3NTA2NA.GZ46nC.1byCYFSZWhyfekKhfdBA3MoRuZcLmmoKsoKkGY",
+        "owner_id":"1112418569641263176"
+    },
+    "embeds_color": {
+        "embed_primary": "#02012e",
+        "embed_invisible": "#02012e",
+        "embed_success": "#02012e",
+        "embed_error": "#02012e"
+    },
+    "ticket": {
+        "category_id": "1124475088943726742",
+        "category_call_id": "1124475088943726742",
+        "support_role": "1137035998593822732",
+        "channel_logs": "1124480430545059851",
+        "thumbnail":"https://media.discordapp.net/attachments/1132875730703896598/1132889785673994350/1684972443171.png?width=960&height=192",
+        "credits":"Raizes de SP"
+    },
+    "sales": {
+        "pix": "em manutenção",
+        "qrcode": "https://media.discordapp.net/attachments/1132865818670141490/1132889451648012429/Z.png",
+        "name": "em manutenção"
+    }
+}
